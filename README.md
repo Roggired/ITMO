@@ -1,6 +1,6 @@
 ## Информация для студентов Кулинич Ярослава и Егошина Алексея
 
-Версия: 2022-2023.0.1
+Версия: 2022-2023.0.2
 
 Уважаемые студенты!
 
@@ -33,8 +33,13 @@
 
 ---
 
-### "Программирование"
-1. [Общие сведения](programming/docs/general.md) о практических занятиях
-2. [Требования](programming/docs/requirements.md) к лабораторным работам
-3. [Примеры](programming/docs/examples.md) кода
-4. [Советы](programming/docs/advices.md)
+### Общее
+1. [Формат практических занятий](general/general.md)
+2. [Все про отчеты](general/report.md)
+3. [Шпаргалка по гиту](general/git-how-to.md)
+4. [Как подключиться к Helios](general/how-to-connect-to-helios.md)
+
+### Программирование
+1. [Требования](programming/docs/requirements.md) к лабораторным работам
+2. [Примеры](programming/docs/examples.md) кода
+3. [Советы](programming/docs/advices.md)
