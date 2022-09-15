@@ -21,6 +21,7 @@
     - P3111 - опд
     - Контакты:
       - Telegram @young_northerner
+      - yaroslav1630@gmail.com
 
 ### Напоминание для студентов
 1. В [этом чате](https://t.me/+uIp_aSXOaZcxZjcy) мы будем публиковать объявления для своих групп 
