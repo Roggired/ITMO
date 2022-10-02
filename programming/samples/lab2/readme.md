@@ -1,3 +1,3 @@
 ## Пример сборки jar архива с зависимостями для ЛР 2
 
-Текст статьи опубликован [здесь]()
+Текст статьи опубликован [здесь](https://www.tune-it.ru/web/egoshin/blog/-/blogs/kurim-sborku-jar?_com_liferay_blogs_web_portlet_BlogsPortlet_redirect=https%3A%2F%2Fwww.tune-it.ru%2Fweb%2Fegoshin%2Fblog%3Fp_p_id%3Dcom_liferay_blogs_web_portlet_BlogsPortlet%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_blogs_web_portlet_BlogsPortlet_delta%3D20%26p_r_p_resetCur%3Dfalse%26_com_liferay_blogs_web_portlet_BlogsPortlet_cur%3D1)
